@@ -1,8 +1,8 @@
 #!/bin/bash
 #/****************************************************************************
 #    Media Take : A Qt and GStreamer Based cross platform Media Player for PC
-#    Copyright (C) 2013  Anubhav Arun <dr.xperience@gmail.com>
-#
+#    Copyright (C) 2012  Anubhav Arun <dr.xperience@gmail.com>
+#    
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
 #    the Free Software Foundation, either version 3 of the License, or
